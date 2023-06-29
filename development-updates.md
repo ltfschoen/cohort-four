@@ -2,11 +2,11 @@
 
 This document includes all development updates by contributors to EPF cohort 4. [Learn more](/program-guide/repo-guide.md#development-updates) about creating your development updates.
 
-Add your name alphabetically and link your updates to corresponding tables bellow by opening a PR. Iterate numbers of your updates and always place them into the current week. Editing a big raw markdown table can cause problems, use a tool for editing md or transforming from other format. 
+Add your name alphabetically and link your updates to corresponding tables below by opening a PR. Iterate numbers of your updates and always place them into the current week. Editing a big raw markdown table can cause problems, use a tool for editing md or transforming from other format. 
 
 ## Phase 1
 
-Phase one is the very beggining of the cohort. First few weeks are dedicated to general learning about the EPF program, Ethereum protocol as whole and it's development. 
+Phase one is the very beginning of the cohort. First few weeks are dedicated to general learning about the EPF program, Ethereum protocol as whole and it's development. 
 
 | Name/GH                           | Week 0                                                                              | Week 1 | Week 2 | 
 | --------------------------------- | ----------------------------------------------------------------------------------- | ------ | ------ | 
